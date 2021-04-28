@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sharifsadiqi
 - 👀 I’m interested in SFDX, LWC, Heroku CLI, Flutter SDK, Firebase SDK
-- 🌱 I’m currently learning SFDX, LWC, Heroku CLI, Flutter SDK, Firebase SDK
 - 💞️ I’m looking to collaborate on SFDX, LWC, Heroku CLI, Flutter SDK, Firebase SDK
 - 📫 How to reach me https://www.linkedin.com/in/sharifsadiqi/
